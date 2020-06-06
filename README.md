@@ -18,3 +18,5 @@ python contrib/env_gen.py
 python manage.py migrate
 python manage.py createsuperuser
 ```
+
+### Deploy no Heroku: https://django-admin-leandro.herokuapp.com/
