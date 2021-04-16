@@ -19,4 +19,9 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
+```
+docker run -p -d 8000:8000 leandromatpereira/django-admin:latest
+```
+
+
 ### Deploy no Heroku: https://django-admin-leandro.herokuapp.com/
